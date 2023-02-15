@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  registry-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-15T18:56:07.834880012Z"
+    description: A Helm chart for Kubernetes
+    digest: 5df09f9b9a00017e8589a75aea3b8e7a0ec1e815000d84ab943ace2ff5177056
+    name: registry-test
+    type: application
+    urls:
+    - https://github.com/wbrown64/helm-demo/releases/download/registry-test-0.1.0/registry-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-15T18:56:07.665975808Z"
